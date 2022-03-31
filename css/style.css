@@ -1,0 +1,9 @@
+:root {
+  -bg-body: rgb(175, 175, 175);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
